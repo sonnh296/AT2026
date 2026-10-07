@@ -1,5 +1,5 @@
 export const album = {
-  brand: "AT2026",
+  brand: "Thị tộc 10 tỷ fen",
   friendName: "bạn",
   headline: "Chặng đường mới bắt đầu từ đây",
   tagline: "Những tấm ảnh và lời chúc từ tụi mình — mang theo khi bay xa.",
